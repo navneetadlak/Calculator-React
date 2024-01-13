@@ -41,7 +41,7 @@ function Calculator() {
                             <input type="button" value="7" className="bg-gray-200 shadow-md rounded-lg w-12 h-12 text-center text-black font-medium flex justify-center items-center outline-none" onClickCapture={clickHandle} />
                             <input type="button" value="8" className="bg-gray-200 shadow-md rounded-lg w-12 h-12 text-center text-black font-medium flex justify-center items-center outline-none" onClickCapture={clickHandle} />
                             <input type="button" value="9" className="bg-gray-200 shadow-md rounded-lg w-12 h-12 text-center text-black font-medium flex justify-center items-center outline-none" onClickCapture={clickHandle} />
-                            <input type="button" value="X" className="bg-green-300 shadow-md rounded-lg w-12 h-12 text-center text-black font-medium flex justify-center items-center outline-none" onClickCapture={clickHandle} />
+                            <input type="button" value="*" className="bg-green-300 shadow-md rounded-lg w-12 h-12 text-center text-black font-medium flex justify-center items-center outline-none" onClickCapture={clickHandle} />
                         </div>
 
                         <div className="m-2 flex justify-between">
